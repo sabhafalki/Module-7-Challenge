@@ -29,12 +29,7 @@ Using customer weather preferences, potential travel destinations were identifie
 
 ## Conclusion ##
 ### Summary ###
-From our analysis, we were able to conclude that the following additional features will improve the App Search:
-1. By adding Weather Data, clients can easily get all the details related to the weather directly, allowing them to plan throughly. 
-2. By adding a Destination and Hotel Search, clients can esaily plan their destinations. 
-3. By creating a Route, clients can easily plan their journey and their stops.  
-
-### Additional Features ###
-The App can be further improvied by introducing additional features like:
-1. Making the App support other languages
-2. Adding google translator to the app
+From our analysis, we were able to conclude that the following:
+1. More than 60% of their employees are getting ready for retirement.The count of employees expected to retire totals 90,398 at Pewlett-Hackard.
+2. They are likely going to need an extensive hiring process in the upcoming years.
+3. 
