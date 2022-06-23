@@ -16,7 +16,7 @@ Software: SQL, PostgreSQL, pgAdmin
 # Results #
 ##  The Number of Retiring Employees by Title ##
 
-![Total_rides](/Weather_Database/WeatherDataFrame.png)
+![DBD](/Image/EmployeeDB.png)
 <br><br>
 
 ## The Employees Eligible for the Mentorship Program ##
