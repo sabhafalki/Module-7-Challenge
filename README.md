@@ -17,13 +17,15 @@ Software: SQL, PostgreSQL, pgAdmin
 ##  The Number of Retiring Employees by Title ##
 
 ![DBD](/Pewlett-Hackard-Analysis/Image/EmployeeDB.png)
+![retirement_titles](/Pewlett-Hackard-Analysis/Image/retirement_titles.png)
+![unique_titles](/Pewlett-Hackard-Analysis/Image/unique_titless.png)
+![retiring_titles](/Pewlett-Hackard-Analysis/Image/retiring_titles.png)
 <br><br>
 
 ## The Employees Eligible for the Mentorship Program ##
 
 
-![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map.png)
-![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map1.png)
+![mentorship_eligibility](/Pewlett-Hackard-Analysis/Image/mentorship_eligibility.png)
 <br><br>
  
 
