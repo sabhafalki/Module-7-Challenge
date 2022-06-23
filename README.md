@@ -17,25 +17,18 @@ Jupyter Notebook Files: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_
 Library Modules: Pandas, Numpy, Scipy.stats,CitiPy, SciPy, Python Requests, APIs, JSON Traversals
 
 # Results #
-## Weather Data ##
-The Weather Data was retrieved based on a set of 2,000 random latitudes and longitudes. Using the Open Weather map and retrieving the information with API, the cities weather data was collected with the current weather description and saved in a new DataFrame.
+##  The Number of Retiring Employees by Title ##
 
 ![Total_rides](/Weather_Database/WeatherDataFrame.png)
 <br><br>
 
-## Customer Travel Destinations Map ##
+## The Employees Eligible for the Mentorship Program ##
 Using customer weather preferences, potential travel destinations were identified along with nearby hotels. The destinations are identified with a marker layer map with pop-up markers.
 
 ![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map.png)
 ![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map1.png)
 <br><br>
  
-## Travel Itinerary Map ##
-Using Google Directions API,a travel route was created to display positional coordinate between four cities chosen by the customer. A marker layer map with pop-up was added to provide customized information to the user describing the name of the city, country, hotel and current weather description.
-
-![Total_Fares](/Vacation_Itinerary/WeatherPy_vacation_map.png)
-![Total_Fares](/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
-<br><br>
 
 ## Conclusion ##
 ### Summary ###
