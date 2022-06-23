@@ -16,7 +16,7 @@ Software: SQL, PostgreSQL, pgAdmin
 # Results #
 ##  The Number of Retiring Employees by Title ##
 
-![DBD](/Image/EmployeeDB.png)
+![DBD](/Pewlett-Hackard-Analysis/Image/EmployeeDB.png)
 <br><br>
 
 ## The Employees Eligible for the Mentorship Program ##
