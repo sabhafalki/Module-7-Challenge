@@ -20,7 +20,7 @@ Software: SQL, PostgreSQL, pgAdmin
 <br><br>
 
 ## The Employees Eligible for the Mentorship Program ##
-Using customer weather preferences, potential travel destinations were identified along with nearby hotels. The destinations are identified with a marker layer map with pop-up markers.
+
 
 ![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map.png)
 ![Vacation_Search](/Vacation_Search/WeatherPy_vacation_map1.png)
