@@ -1,11 +1,13 @@
 # Module-7-Challenge  Pewlett-Hackard-Analysis
 # Overview of Project #
-The purpose of this Project is to analyze and visualize Plan My Trip app and improve the app, so that clients can have a less stressful journey with a cohesive travel itinerary. The goal is to also determine which additional features will help travelers in their journey, specifically to help them find potential travel destinations and nearby hotels. The data sample consisted of four cities to create a travel itinerary by using the Google Maps Directions API and creating a travel route between the four cities as well as a marker layer map.
+The purpose of this Project is to create an entire Employee database using six csv files to help Pewlett Hackard company for the upcoming “Silver Tsunami”. By notifying a potential trend of a large chunk of employees retiring recently.Hackard wants to be prepared with retirement packages, open positions, and training opportunities for replacement employees.
 
 The analysis consisted of the following:
-1. Retrieve Weather Data
-2. Create a Customer Travel Destination Map
-3. Create a Travel Itinerary Map
+1. Identify the retiring employees by their title.
+2. Determine the sum of retiring employees grouped by title.
+3. Identify the employees eligible for participation in the mentorship program.
+4. Determine the number of roles-to-fill grouped by title and department.
+5. Determine the number of qualified, retirement-ready employees to mentor. the next generation grouped by title and department.
 
 # Resources #
 Data Source : Open Weather website, Google gmaps <br>
