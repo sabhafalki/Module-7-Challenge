@@ -1,6 +1,6 @@
 # Module-7-Challenge  Pewlett-Hackard-Analysis
 # Overview of Project #
-The purpose of this Project is to create an entire Employee database using six csv files to help Pewlett Hackard company for the upcoming “Silver Tsunami”. By notifying a potential trend of a large chunk of employees retiring recently.Hackard wants to be prepared with retirement packages, open positions, and training opportunities for replacement employees.
+The purpose of this Project is to create an entire Employee database using six csv files to help Pewlett Hackard company for the upcoming “Silver Tsunami”. By notifying a potential trend of a large chunk of employees retiring recently.Pewlett Hackard wants detailed information on the number of future retirees from all departments currently working at the company to be able to prepare a plan to hire new staff and also to prepare a mentorship initiative. The criterion was based on the birth dates ranging from 1952 to 1955 and hired dates from 1985 to 1988.
 
 The analysis consisted of the following:
 1. Identify the retiring employees by their title.
@@ -10,11 +10,8 @@ The analysis consisted of the following:
 5. Determine the number of qualified, retirement-ready employees to mentor. the next generation grouped by title and department.
 
 # Resources #
-Data Source : Open Weather website, Google gmaps <br>
-CSV Files: Weather_Database.csv, WeatherPy_vacation.csv <br>
-Software: Python, Anaconda, Jupyter Notebook <br>
-Jupyter Notebook Files: Weather_Database.ipynb, Vacation_Search.ipynb, Vacation_Itinerary.ipynb  <br>
-Library Modules: Pandas, Numpy, Scipy.stats,CitiPy, SciPy, Python Requests, APIs, JSON Traversals
+Data Sources: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv, titles.csv <br>
+Software: SQL, PostgreSQL, pgAdmin
 
 # Results #
 ##  The Number of Retiring Employees by Title ##
