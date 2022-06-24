@@ -45,6 +45,9 @@ From our analysis, we were able to conclude that the following:
 The following table provides a summary of the number of employees eligible for the mentorship program based on their designation. 
 ![unique_titles](/Pewlett-Hackard-Analysis/Image/mentorship_emp.png) <br>
 
+It is evident from the table above, that the Senior Staff and Egineers were amonghst the hightest to be eligible for the mentroship program. 
+
 The following table provides a summary of the number of employees eligible for the mentorship program based on their department. 
 ![unique_titles](/Pewlett-Hackard-Analysis/Image/retirement_departments.png) <br>
 
+Based on the table above, we can conclude that the Development and Production Department had the hightest retirement rates. 
