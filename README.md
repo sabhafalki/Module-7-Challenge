@@ -40,14 +40,13 @@ From our analysis, we were able to conclude that the following:
 1. After analyzing the number of retiring employees by their titles, we were able to conclude that more than 60% of their employees are getting ready for retirement. The count of employees expected to retire is 90,398.
 2. We were also able to conclude that the senior staff also had senior designations, which made sense.
 3. We also realized that the highest number of Employees leaving were Senior Engineers and the Senior Staff. 
+4. There appears to be a high numebr of employees retiring, hence the organization needs to backfill. 
 
 ## Further Analysis ##
 The following table provides a summary of the number of employees eligible for the mentorship program based on their designation. 
+It is evident from the table below, that the Senior Staff and Egineers were amonghst the hightest to be eligible for the mentroship program. <br>
 ![unique_titles](/Pewlett-Hackard-Analysis/Image/mentorship_emp.png) <br>
 
-It is evident from the table above, that the Senior Staff and Egineers were amonghst the hightest to be eligible for the mentroship program. 
-
 The following table provides a summary of the number of employees eligible for the mentorship program based on their department. 
+Based on the table below, we can conclude that the Development and Production Department had the hightest retirement rates. <br>
 ![unique_titles](/Pewlett-Hackard-Analysis/Image/retirement_departments.png) <br>
-
-Based on the table above, we can conclude that the Development and Production Department had the hightest retirement rates. 
